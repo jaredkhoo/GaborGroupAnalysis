@@ -1,0 +1,34 @@
+protocolName,id,color,discreteCol,errorBarDirection,Include,abbrev,stim
+One Decision Covert,onec,.6 .4 .8,1,Vertical,0,One Covert,Gabor
+One Decision Overt,oneo,.5 0 .125,1,Vertical,0,One Overt,Gabor
+Two Decision Covert,twoc,0 0 1,1,Vertical,0,Two Covert,Gabor
+Two Decision Overt,twoo,1 0 0,1,Vertical,0,Two Overt,Gabor
+Three Decision Covert,thrc,0 1 0,1,Vertical,0,Three Covert,Gabor
+Three Decision Overt,thro,1 0 1,1,Vertical,0,Three Overt,Gabor
+Face One Decision Covert,onec,.6 .4 .8,1,Vertical,0,One Covert,Uface
+Face One Decision Overt,oneo,.5 0 .125,1,Vertical,0,One Overt,Uface
+Face Two Decision Covert,twoc,0 0 1,1,Vertical,0,Two Covert,Uface
+Face Two Decision Overt,twoo,1 0 0,1,Vertical,0,Two Overt,Uface
+Face Three Decision Covert,thrc,0 1 0,1,Vertical,0,Three Covert,Uface
+Face Three Decision Overt,thro,1 0 1,1,Vertical,0,Three Overt,Uface
+FamChar One Decision Covert,onec,.6 .4 .8,1,Vertical,0,One Covert,EPB
+FamChar One Decision Overt,oneo,.5 0 .125,1,Vertical,0,One Overt,EPB
+FamChar Two Decision Covert,twoc,0 0 1,1,Vertical,0,Two Covert,EPB
+FamChar Two Decision Overt,twoo,1 0 0,1,Vertical,0,Two Overt,EPB
+FamChar Three Decision Covert,thrc,0 1 0,1,Vertical,0,Three Covert,EPB
+FamChar Three Decision Overt,thro,1 0 1,1,Vertical,0,Three Overt,EPB
+UnFamChar One Decision Covert,onec,.6 .4 .8,1,Vertical,0,One Covert,Chinese
+UnFamChar One Decision Overt,oneo,.5 0 .125,1,Vertical,0,One Overt,Chinese
+UnFamChar Two Decision Covert,twoc,0 0 1,1,Vertical,0,Two Covert,Chinese
+UnFamChar Two Decision Overt,twoo,1 0 0,1,Vertical,0,Two Overt,Chinese
+UnFamChar Three Decision Covert,thrc,0 1 0,1,Vertical,0,Three Covert,Chinese
+UnFamChar Three Decision Overt,thro,1 0 1,1,Vertical,0,Three Overt,Chinese
+NewGabor One Decision Covert,onec,.6 .4 .8,1,Vertical,0,One Covert,NewGabor
+NewGabor One Decision Overt,oneo,.5 0 .125,1,Vertical,0,One Overt,NewGabor
+NewGabor Two Decision Covert,twoc,0 0 1,1,Vertical,0,Two Covert,NewGabor
+NewGabor Two Decision Overt,twoo,1 0 0,1,Vertical,0,Two Overt,NewGabor
+NewGabor Three Decision Covert,thrc,0 1 0,1,Vertical,0,Three Covert,NewGabor
+NewGabor Three Decision Overt,thro,1 0 1,1,Vertical,0,Three Overt,NewGabor
+ConstantCross One Decision Covert,onec,.6 .4 .8,1,Vertical,1,One Covert,ConstantCross
+ConstantCross Two Decision Covert,twoc,0 0 1,1,Vertical,1,Two Covert,ConstantCross
+ConstantCross Three Decision Covert,thrc,0 1 0,1,Vertical,1,Three Covert,ConstantCross
